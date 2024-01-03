@@ -3,7 +3,10 @@ Welcome to PACKHACK Analyzer – a lightning-fast Python script designed for exp
 
 ## Features
 
-***Text Data Extraction***: Unleash the potential of network packet data by revealing human-readable content within TCP packets.
+- ***Text Data Extraction***: Unleash the potential of network packet data by revealing human-readable content within TCP packets.
+
+
+
 
 
 
@@ -11,5 +14,11 @@ Welcome to PACKHACK Analyzer – a lightning-fast Python script designed for exp
 
 ### 1- Clone the Repository:
 ```
-git clone https://github.com/your-username/PACKHACK-Analyzer.git
+git clone https://github.com/HowToHack1337/PACKHACK-
 ```
+
+### 2- Run the Script:
+```
+python PACHACK.py your_pcap_file.pcap
+```
+
